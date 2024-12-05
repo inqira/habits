@@ -12,7 +12,7 @@ class LegalConsentService {
   static const String _latestTermsVersionKey = 'latest_terms_version';
   static const String _latestPrivacyVersionKey = 'latest_privacy_version';
   static const String _versionsUrl =
-      'https://raw.githubusercontent.com/inqira/habit_tracker/main/legal/versions.json';
+      'https://raw.githubusercontent.com/inqira/habits/main/legal/versions.json';
 
   final SharedPreferences _prefs;
 

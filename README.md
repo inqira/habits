@@ -34,12 +34,12 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/inqira/habit_tracker.git
+   git clone https://github.com/inqira/habits.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd habit_tracker
+   cd habits
    ```
 
 3. Install dependencies:
@@ -128,5 +128,5 @@ This project is licensed under the MIT License with Brand Exception - see the [L
 
 Inqira - [@inqira](https://github.com/inqira)
 
-Project Link: [https://github.com/inqira/habit_tracker](https://github.com/inqira/habit_tracker)
+Project Link: [https://github.com/inqira/habits](https://github.com/inqira/habits)
 

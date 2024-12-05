@@ -62,12 +62,12 @@ class LegalConsentWidget extends StatelessWidget {
                       children: [
                         OutlinedButton(
                           onPressed: () => _launchURL(
-                              'https://github.com/inqira/habit_tracker/blob/main/legal/terms_of_use.md'),
+                              'https://github.com/inqira/habits/blob/main/legal/terms_of_use.md'),
                           child: const Text('Terms of Use'),
                         ),
                         OutlinedButton(
                           onPressed: () => _launchURL(
-                              'https://github.com/inqira/habit_tracker/blob/main/legal/privacy_policy.md'),
+                              'https://github.com/inqira/habits/blob/main/legal/privacy_policy.md'),
                           child: const Text('Privacy Policy'),
                         ),
                       ],
