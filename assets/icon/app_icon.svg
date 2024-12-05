@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background Circle -->
+    <circle cx="256" cy="256" r="248" fill="#6366F1" />
+    
+    <!-- Inner Circle (Progress Ring) -->
+    <circle cx="256" cy="256" r="200" stroke="white" stroke-width="24" stroke-dasharray="1256" stroke-dashoffset="314" />
+    
+    <!-- Checkmark -->
+    <path d="M160 256L224 320L352 192" stroke="white" stroke-width="32" stroke-linecap="round" stroke-linejoin="round" />
+    
+    <!-- Small Circles (Habit Points) -->
+    <circle cx="160" cy="256" r="12" fill="white" />
+    <circle cx="224" cy="320" r="12" fill="white" />
+    <circle cx="352" cy="192" r="12" fill="white" />
+    
+    <!-- Abstract Lines -->
+    <path d="M128 384C192 352 320 352 384 384" stroke="white" stroke-width="16" stroke-linecap="round" opacity="0.5" />
+    <path d="M128 128C192 160 320 160 384 128" stroke="white" stroke-width="16" stroke-linecap="round" opacity="0.5" />
+</svg>

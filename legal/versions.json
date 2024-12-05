@@ -1,0 +1,20 @@
+{
+  "terms_of_use": {
+    "latest_version": "2024-12-01",
+    "versions": [
+      {
+        "version": "2024-12-01",
+        "description": "Initial version"
+      }
+    ]
+  },
+  "privacy_policy": {
+    "latest_version": "2024-12-01",
+    "versions": [
+      {
+        "version": "2024-12-01",
+        "description": "Initial version"
+      }
+    ]
+  }
+}
