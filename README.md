@@ -1,7 +1,7 @@
 # Let's Habit
 
 <div align="center">
-  <img src="assets/app_icon.png" alt="Let's Habit Logo" width="120"/>
+  <img src="assets/icon/app_icon.png" alt="Let's Habit Logo" width="120"/>
   <h3>A modern, cross-platform habit tracking application</h3>
 </div>
 
